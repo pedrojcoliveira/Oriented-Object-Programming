@@ -1,0 +1,8 @@
+Luis Carlos; Rua Central n22;1/12/1985;
+0;1100; 10000;  Ferragem
+nao
+Ordenado Final: 1100
+Manuel Jose;Rua do Galo n136;2/12/1967;
+23;1500; 25000; Pintura
+sim
+Ordenado Final: 2059

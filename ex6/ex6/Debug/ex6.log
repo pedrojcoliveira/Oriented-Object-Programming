@@ -1,0 +1,19 @@
+﻿  Administrativo.cpp
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Administrativo.cpp(15,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Administrativo.cpp(22,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Administrativo.cpp(41,8): warning C4101: '_p_h_extra': unreferenced local variable
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Administrativo.cpp(74,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Administrativo.cpp(63,8): warning C4101: '_p_h_extra': unreferenced local variable
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Administrativo.cpp(61,17): warning C4101: 'op': unreferenced local variable
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Administrativo.cpp(92,7): warning C4101: 'aux': unreferenced local variable
+  Funcionario.cpp
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Funcionario.cpp(94,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Operario.cpp
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Operario.cpp(33,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Operario.cpp(51,8): warning C4101: '_p_h_extra': unreferenced local variable
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Operario.cpp(95,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\Operario.cpp(84,8): warning C4101: '_p_h_extra': unreferenced local variable
+  ex6.cpp
+C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\ex6\ex6.cpp(80,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  ex6.vcxproj -> C:\dados\mcabral\aulas\POO\2020-2021\exercicios\ex6\Debug\ex6.exe

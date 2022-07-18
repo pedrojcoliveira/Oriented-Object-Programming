@@ -1,0 +1,3 @@
+Joni Rato; Rua da esquerda n 3;4/2/1990;
+0;950; 25024;  Comercial
+Ordenado Final: 950
